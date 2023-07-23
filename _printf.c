@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _printf : output according to format
+ * _printf - output according to format
  * @format: character string
  *
  * Return: The number of characters printed
